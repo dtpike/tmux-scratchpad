@@ -2,7 +2,7 @@
 
 The plugin provides a shell script to either create a popup window if a session
 doesn't exist or switch to the session if it does exist. Requires tmux version
-3.2 or greater.
+3.2 or greater and [tpm](https://github.com/tmux-plugins/tpm).
 
 ## Installation
 
